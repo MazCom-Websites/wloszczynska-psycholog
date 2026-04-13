@@ -1,0 +1,82 @@
+{
+  "title": "Psychoterapia",
+  "slug": "psychoterapia",
+  "parentPath": "/oferta",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "status": "published",
+  "name": "Psychoterapia",
+  "shortDescription": "Dłuższa praca terapeutyczna nad trudnościami emocjonalnymi, poznawczymi i behawioralnymi. Regularne sesje dopasowane do Twoich potrzeb — w gabinecie lub online.",
+  "icon": "HeartHandshake",
+  "category": "Wsparcie psychologiczne",
+  "processSteps": [
+    {
+      "title": "Konsultacja wstępna",
+      "description": "Rozpoczynamy od jednej lub kilku konsultacji, podczas których wzajemnie się poznajemy. Omawiamy Twoje trudności, historię, oczekiwania i cele. To czas, żeby sprawdzić, czy relacja terapeutyczna między nami będzie dobrze Ci służyć."
+    },
+    {
+      "title": "Ustalenie kontraktu",
+      "description": "Wspólnie ustalamy zasady współpracy — częstotliwość sesji (zazwyczaj raz w tygodniu), długość ewentualnej przerwy, zasady odwoływania sesji i cele terapii. Jasne ramy to fundament bezpiecznej pracy."
+    },
+    {
+      "title": "Praca terapeutyczna",
+      "description": "Rozpoczyna się właściwa terapia. Pracujemy nad tym, co przyniesiesz na sesję — emocjami, myślami, relacjami, wspomnieniami. Staram się stworzyć przestrzeń, w której możesz bezpiecznie odkrywać to, co dotąd było niejasne lub zablokowane."
+    },
+    {
+      "title": "Rozumienie siebie",
+      "description": "W miarę postępów terapii zaczynasz lepiej rozumieć własne reakcje, schematy i emocje. Stopniowo zyskujesz większą swobodę wyboru w sytuacjach, które wcześniej wywoływały automatyczne reakcje. To moment, w którym zmiana staje się zauważalna."
+    },
+    {
+      "title": "Utrwalenie zmian",
+      "description": "Pracujemy nad tym, żeby nowe umiejętności i sposoby radzenia sobie stały się trwałą częścią Twojego życia. Uczymy się wspólnie rozpoznawać momenty ryzyka i korzystać z zasobów, które w sobie wypracowałaś."
+    },
+    {
+      "title": "Zakończenie terapii",
+      "description": "Zakończenie terapii to ważny etap, który przeprowadzamy w sposób przemyślany — omawiamy drogę, którą przeszłaś, celebrujemy zmiany i przygotowujemy Cię do samodzielnego korzystania z tego, co wypracowałaś. Drzwi pozostają otwarte na przyszłość."
+    }
+  ],
+  "pricingVariants": [
+    {
+      "name": "Sesja w gabinecie",
+      "price": "200",
+      "description": "50 minut w gabinecie przy ul. Jana III Sobieskiego 8 w Białej Podlaskiej"
+    },
+    {
+      "name": "Sesja online",
+      "price": "200",
+      "description": "50 minut za pośrednictwem bezpiecznej platformy wideo — dla osób, które nie mogą przyjść do gabinetu"
+    }
+  ],
+  "relatedServices": ["konsultacja-psychologiczna", "pomoc-okoloporodowa"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    {
+      "slice_type": "service_description",
+      "primary": {
+        "content": "Psychoterapia to dłuższa forma współpracy, która ma na celu głębszą pracę nad Twoimi trudnościami — emocjonalnymi, poznawczymi i behawioralnymi. W odróżnieniu od pojedynczej konsultacji, terapia jest procesem rozłożonym w czasie. To przestrzeń, w której nie tylko rozwiązujesz bieżące problemy, ale też dużo lepiej zaczynasz rozumieć siebie — swoje reakcje, emocje, schematy myślenia i zachowania, które często powtarzają się w różnych sytuacjach życiowych.\n\nPodczas pracy skupiamy się na kilku poziomach jednocześnie. Po pierwsze — na zrozumieniu przyczyn trudności. Często to, co nas boli w dorosłym życiu, ma korzenie w doświadczeniach, o których zapomniałyśmy lub których znaczenia nie doceniamy. Po drugie — na poszerzaniu sposobu myślenia. Uczymy się dostrzegać alternatywy tam, gdzie dotąd widziałyśmy tylko jedno rozwiązanie albo jedną wersję siebie. Po trzecie — na modyfikacji zachowań, które przestały nam służyć, i rozwijaniu nowych umiejętności radzenia sobie z emocjami i trudnościami.\n\nZ kim pracuję? Z osobami, które doświadczają lęku, depresji, przewlekłego stresu, wypalenia, trudności ze snem, poczucia pustki lub braku sensu. Z osobami, które zmagają się z trudnościami w relacjach — z partnerem, rodziną, dziećmi. Z osobami po doświadczeniu straty, rozstania, zmiany życiowej. Z osobami, które pragną lepiej rozumieć siebie, pracować nad samoakceptacją i budować poczucie własnej wartości. Każda historia jest inna, ale w każdej znajduje się przestrzeń na zmianę.\n\nCzas trwania psychoterapii dostosowany jest indywidualnie do klienta i jego sytuacji. Niektórzy potrzebują kilku miesięcy pracy nad konkretnym problemem — np. kryzysem zawodowym, żałobą, lękiem związanym z konkretną sytuacją. Inni decydują się na dłuższą, głębszą pracę trwającą rok, dwa lub więcej — kiedy trudności mają bardziej złożone korzenie albo dotyczą wielu obszarów życia. W trakcie terapii wspólnie monitorujemy postępy i dostosowujemy tempo do tego, co dzieje się u Ciebie.\n\nSesje odbywają się zazwyczaj raz w tygodniu, w stałym terminie — ta regularność jest ważna dla procesu terapeutycznego. W sytuacji, gdy nie ma możliwości spotkania się w gabinecie, istnieje możliwość pracy online. Skuteczność terapii online jest porównywalna z terapią stacjonarną, pod warunkiem, że masz spokojne, prywatne miejsce, w którym możesz rozmawiać bez zakłóceń. Moja praca jest regularnie poddawana superwizji, co jest dla mnie gwarancją jakości i bezpieczeństwa dla Ciebie."
+      }
+    },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    {
+      "slice_type": "cta_section",
+      "primary": {
+        "title": "Rozważasz rozpoczęcie terapii?",
+        "description": "Pierwszym krokiem jest zawsze konsultacja wstępna — niezobowiązujące spotkanie, podczas którego sprawdzimy, czy chcemy razem pracować. Zadzwoń albo napisz, żebyśmy ustalili termin.",
+        "primary_button_text": "Zadzwoń: 794 575 753",
+        "primary_button_link": { "url": "tel:+48794575753" },
+        "secondary_button_text": "Napisz maila",
+        "secondary_button_link": { "url": "mailto:wloszczynska.psycholog@gmail.com" }
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Psychoterapia — Weronika Włoszczyńska, Biała Podlaska",
+    "metaDescription": "Psychoterapia indywidualna w Białej Podlaskiej. Lęk, depresja, stres, trudności w relacjach, rozwój osobisty. 200 zł/50 min. W gabinecie lub online. Umów: 794 575 753.",
+    "metaImage": "",
+    "ogImage": "",
+    "robots": "",
+    "keywords": "psychoterapia biała podlaska, terapia indywidualna, psycholog lęk depresja, terapia online",
+    "canonicalUrl": ""
+  }
+}

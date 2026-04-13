@@ -1,0 +1,38 @@
+{
+  "siteName": "Weronika Włoszczyńska — Psycholog, Psychoterapeuta",
+  "siteDescription": "Weronika Włoszczyńska — psycholog i psychoterapeuta w Białej Podlaskiej. Psychoterapia, wsparcie okołoporodowe, konsultacje psychologiczne. Bezpieczna przestrzeń dla Twoich emocji i doświadczeń.",
+  "siteUrl": "https://wloszczynskapsycholog.pl",
+  "cloudinaryFolder": "wloszczynska-psycholog",
+  "locale": "pl-PL",
+  "navbar": {
+    "links": [
+      { "name": "Strona główna", "path": "/" },
+      { "name": "Oferta", "path": "/oferta" },
+      { "name": "O mnie", "path": "/o-mnie" },
+      { "name": "Kontakt", "path": "/kontakt" }
+    ],
+    "cta": { "text": "Umów konsultację", "path": "/kontakt" }
+  },
+  "contact": {
+    "phone": "+48 794 575 753",
+    "email": "wloszczynska.psycholog@gmail.com",
+    "address": "ul. Jana III Sobieskiego 8, 21-500 Biała Podlaska",
+    "openingHours": {
+      "weekdays": "Pn–Pt: po wcześniejszym umówieniu telefonicznym",
+      "weekends": "Weekendy: w szczególnych sytuacjach po uzgodnieniu"
+    }
+  },
+  "social": {
+    "facebook": "",
+    "instagram": ""
+  },
+  "footer": {
+    "copyright": "© {year} Weronika Włoszczyńska — Psycholog, Psychoterapeuta. Wszystkie prawa zastrzeżone.",
+    "services": [
+      { "name": "Konsultacja psychologiczna", "path": "/oferta/konsultacja-psychologiczna" },
+      { "name": "Psychoterapia", "path": "/oferta/psychoterapia" },
+      { "name": "Pomoc okołoporodowa", "path": "/oferta/pomoc-okoloporodowa" },
+      { "name": "Wizyty domowe", "path": "/oferta/wizyty-domowe" }
+    ]
+  }
+}

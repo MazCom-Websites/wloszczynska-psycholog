@@ -1,0 +1,172 @@
+{
+  "title": "Kontakt",
+  "status": "published",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "description": "Skontaktuj się z Weroniką Włoszczyńską — psycholog i psychoterapeuta w Białej Podlaskiej. Telefon, email, adres gabinetu, formularz kontaktowy.",
+  "path": "/kontakt",
+  "slices": [
+    {
+      "slice_type": "hero_centered",
+      "primary": {
+        "title": "Masz pytania? Skontaktuj się ze mną",
+        "description": "Jeśli chcesz umówić się na konsultację, masz pytania o formę wsparcia, albo po prostu nie wiesz, od czego zacząć — zapraszam Cię do kontaktu. Napisz lub zadzwoń. Odpowiadam osobiście, z szacunkiem i uwagą. Nie musisz w wiadomości pisać wszystkiego — wystarczy kilka zdań o tym, co chcesz przekazać."
+      }
+    },
+    {
+      "slice_type": "contact_cards",
+      "primary": {
+        "title": "Jak się ze mną skontaktować",
+        "methods": [
+          {
+            "title": "Telefon",
+            "description": "Zadzwoń w dogodnym dla siebie momencie. Jeśli nie odbiorę — oddzwonię, gdy tylko skończę spotkanie z klientem.",
+            "icon": "Phone",
+            "value": "+48 794 575 753",
+            "link": "tel:+48794575753"
+          },
+          {
+            "title": "Email",
+            "description": "Napisz do mnie — odpowiadam na wiadomości osobiście, zazwyczaj w ciągu 24-48 godzin w dni robocze.",
+            "icon": "Mail",
+            "value": "wloszczynska.psycholog@gmail.com",
+            "link": "mailto:wloszczynska.psycholog@gmail.com"
+          },
+          {
+            "title": "Adres gabinetu",
+            "description": "Gabinet znajduje się w centrum Białej Podlaskiej, przy ul. Jana III Sobieskiego 8 — w spokojnej, kameralnej lokalizacji.",
+            "icon": "MapPin",
+            "value": "ul. Jana III Sobieskiego 8, 21-500 Biała Podlaska",
+            "link": ""
+          },
+          {
+            "title": "Godziny przyjęć",
+            "description": "Spotkania odbywają się po wcześniejszym umówieniu telefonicznym — staramy się znaleźć termin dogodny dla obu stron.",
+            "icon": "Clock",
+            "value": "Pn–Pt po uzgodnieniu telefonicznym",
+            "link": ""
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "contact_form_with_details",
+      "primary": {
+        "title": "Napisz do mnie",
+        "description": "Wypełnij krótki formularz — odpowiem w ciągu 24-48 godzin w dni robocze. Wszystkie informacje, które mi przekażesz, są objęte pełną poufnością."
+      },
+      "items": [
+        {
+          "icon": "Phone",
+          "label": "Telefon",
+          "value": "+48 794 575 753",
+          "link": {
+            "url": "tel:+48794575753",
+            "text": ""
+          }
+        },
+        {
+          "icon": "Mail",
+          "label": "Email",
+          "value": "wloszczynska.psycholog@gmail.com",
+          "link": {
+            "url": "mailto:wloszczynska.psycholog@gmail.com",
+            "text": ""
+          }
+        },
+        {
+          "icon": "MapPin",
+          "label": "Adres",
+          "value": "ul. Jana III Sobieskiego 8, 21-500 Biała Podlaska",
+          "link": {
+            "url": "/kontakt#mapa",
+            "text": ""
+          }
+        },
+        {
+          "icon": "Shield",
+          "label": "Poufność",
+          "value": "Wszystkie wiadomości są poufne i objęte tajemnicą zawodową",
+          "link": {
+            "url": "",
+            "text": ""
+          }
+        }
+      ]
+    },
+    {
+      "slice_type": "map_location",
+      "primary": {
+        "title": "Znajdź mnie na mapie",
+        "latitude": 52.0323,
+        "longitude": 23.1175,
+        "map_embed_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2450!2d23.1175!3d52.0323!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTLCsDAxJzU2LjMiTiAyM8KwMDcnMDMuMCJF!5e0!3m2!1spl!2spl!4v1",
+        "address": "ul. Jana III Sobieskiego 8, 21-500 Biała Podlaska",
+        "directions_info": "Gabinet znajduje się przy ul. Jana III Sobieskiego 8 w Białej Podlaskiej — w centralnej części miasta. Dojazd samochodem i komunikacją miejską jest wygodny. Ulica Jana III Sobieskiego łączy się z głównymi arteriami miasta, co ułatwia dotarcie z każdej dzielnicy oraz z miejscowości podlegających pod Białą Podlaską.",
+        "parking_info": "W bezpośrednim sąsiedztwie gabinetu dostępne są bezpłatne miejsca parkingowe. Jeśli masz trudności z parkowaniem, napisz lub zadzwoń — doradzę najlepsze opcje."
+      }
+    },
+    {
+      "slice_type": "searchable_faq",
+      "primary": {
+        "title": "Zanim zadzwonisz — częste pytania",
+        "description": "Odpowiedzi na pytania, które najczęściej słyszę przed pierwszym spotkaniem. Jeśli nie znajdziesz tu odpowiedzi, po prostu napisz lub zadzwoń.",
+        "faqs": [
+          {
+            "question": "Jak mogę umówić się na konsultację?",
+            "answer": "Najłatwiej telefonicznie — zadzwoń pod numer 794 575 753. Jeśli nie odbiorę, to znaczy, że jestem w trakcie sesji — oddzwonię, gdy tylko skończę spotkanie. Możesz również napisać maila na wloszczynska.psycholog@gmail.com albo wypełnić formularz kontaktowy na tej stronie. Odpowiadam osobiście w ciągu 24-48 godzin w dni robocze.",
+            "category": "Zapisy"
+          },
+          {
+            "question": "Jak wygląda pierwsze spotkanie?",
+            "answer": "Pierwsze spotkanie to konsultacja — rozmowa, podczas której opowiadasz mi, co Cię do mnie przyprowadziło. Nie musisz nic specjalnie przygotowywać ani wiedzieć, „jak to się robi”. Zadaję pytania, które pomogą nam obu zrozumieć sytuację. Na koniec wspólnie ustalamy, jaka forma wsparcia będzie dla Ciebie najlepsza. Pierwsza konsultacja nie zobowiązuje Cię do kontynuowania współpracy.",
+            "category": "Pierwsza wizyta"
+          },
+          {
+            "question": "Ile kosztuje sesja?",
+            "answer": "Sesja w gabinecie (konsultacja psychologiczna, psychoterapia, pomoc okołoporodowa) trwa 50 minut i kosztuje 200 zł. Okołoporodowa wizyta domowa trwa 90 minut i kosztuje 350 zł — cena obejmuje dojazd w granicach Białej Podlaskiej i okolic do 30 km. Płatność odbywa się gotówką lub przelewem na koniec sesji.",
+            "category": "Cennik"
+          },
+          {
+            "question": "Czy sesje mogą odbywać się online?",
+            "answer": "Tak, po wcześniejszym ustaleniu sesje (konsultacja i psychoterapia) mogą odbywać się online. Korzystamy z bezpiecznej platformy wideo. Potrzebujesz komputera lub telefonu z kamerą oraz spokojnego, prywatnego miejsca, w którym nikt Ci nie będzie przeszkadzać. Skuteczność sesji online jest porównywalna z pracą w gabinecie.",
+            "category": "Forma pracy"
+          },
+          {
+            "question": "Jak często odbywają się sesje?",
+            "answer": "Podczas psychoterapii sesje odbywają się zazwyczaj raz w tygodniu, w stałym terminie. Ta regularność jest ważna dla procesu terapeutycznego. Przy konsultacjach jednorazowych częstotliwość ustalamy indywidualnie — niektóre osoby umawiają się tylko raz, inne co kilka tygodni. W pomocy okołoporodowej dopasowujemy rytm do Twojej sytuacji i samopoczucia.",
+            "category": "Organizacja"
+          },
+          {
+            "question": "Co jeśli będę musiała odwołać sesję?",
+            "answer": "Odwołanie sesji jest możliwe najpóźniej 24 godziny przed umówionym terminem — wtedy nie pobieram opłaty. Sesje odwołane później lub nieodwołane w ogóle są płatne w pełnej kwocie, z wyjątkiem nagłych sytuacji zdrowotnych potwierdzonych zwolnieniem. Zasady te ustalamy wspólnie podczas pierwszego spotkania.",
+            "category": "Organizacja"
+          },
+          {
+            "question": "Czy informacje z sesji są poufne?",
+            "answer": "Tak, w pełni. Jako psycholog i psychoterapeuta jestem zobowiązana tajemnicą zawodową. Wszystko, co powiesz mi podczas sesji, pozostaje między nami. Wyjątki od tajemnicy są ściśle określone przepisami prawa i dotyczą sytuacji, w których istnieje realne zagrożenie życia lub zdrowia. O takich sytuacjach informuję klienta przed ewentualnym ujawnieniem informacji.",
+            "category": "Poufność"
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Zadzwoń lub napisz",
+        "description": "Wykonaj pierwszy krok — reszta pójdzie znacznie łatwiej. Odbieram osobiście, odpowiadam osobiście. Nie ma tu sekretariatu ani presji. Jest miejsce na Ciebie i na to, z czym przychodzisz.",
+        "cta_text": "Zadzwoń: 794 575 753",
+        "cta_link": { "url": "tel:+48794575753" },
+        "glow_color": "#cd5f56"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Kontakt — Weronika Włoszczyńska, Psycholog w Białej Podlaskiej",
+    "metaDescription": "Skontaktuj się z Weroniką Włoszczyńską — psycholog i psychoterapeutą w Białej Podlaskiej. Telefon: 794 575 753, email: wloszczynska.psycholog@gmail.com. Adres: ul. Jana III Sobieskiego 8.",
+    "metaImage": "",
+    "ogImage": "",
+    "robots": "",
+    "keywords": "kontakt psycholog biała podlaska, weronika włoszczyńska kontakt, umów konsultację psycholog, adres gabinet psychologiczny",
+    "canonicalUrl": ""
+  }
+}

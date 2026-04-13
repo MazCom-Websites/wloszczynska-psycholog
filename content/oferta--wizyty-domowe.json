@@ -1,0 +1,82 @@
+{
+  "title": "Okołoporodowe wizyty domowe",
+  "slug": "wizyty-domowe",
+  "parentPath": "/oferta",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "status": "published",
+  "name": "Wizyty domowe",
+  "shortDescription": "Dedykowane kobietom w kryzysowej sytuacji okołoporodowej, które nie mogą pojawić się w gabinecie. 90-minutowe spotkanie w Twoim domu — dla Ciebie i ewentualnie Twojego niemowlęcia. Biała Podlaska i okolice do 30 km.",
+  "icon": "Home",
+  "category": "Wsparcie okołoporodowe",
+  "processSteps": [
+    {
+      "title": "Zgłoszenie telefoniczne",
+      "description": "Dzwonisz pod numer 794 575 753 i opowiadasz krótko o sytuacji — nie musisz wchodzić w szczegóły, wystarczy, że powiesz, że potrzebujesz wsparcia w domu. Wspólnie weryfikujemy, czy wizyta domowa jest dla Ciebie najlepszą formą pomocy."
+    },
+    {
+      "title": "Ustalenie terminu",
+      "description": "Ustalamy termin wizyty — uwzględniając rytm dnia Ciebie i dziecka, momenty karmienia, drzemek i odpoczynku. Dostosowuję się do Twoich możliwości, bo wiem, że w tym okresie elastyczność jest niezwykle ważna."
+    },
+    {
+      "title": "Przyjazd do Twojego domu",
+      "description": "Przyjeżdżam w umówionym terminie do Twojego domu — w Białej Podlaskiej lub okolicach do 30 km od miasta. Nie musisz nic specjalnie przygotowywać ani sprzątać. Jesteś w swoim otoczeniu, w swoim tempie, możesz mieć dziecko przy sobie."
+    },
+    {
+      "title": "Spotkanie 90 minut",
+      "description": "Nasze spotkanie trwa 90 minut — dłużej niż standardowa sesja, bo wizyta domowa wymaga więcej czasu na zbudowanie przestrzeni, opiekę nad dzieckiem i rozmowę w warunkach domowych. Pracujemy nad tym, co przeżywasz i co jest teraz najtrudniejsze."
+    },
+    {
+      "title": "Opracowanie planu wsparcia",
+      "description": "Pod koniec wizyty wspólnie opracowujemy plan działania — co może Ci teraz pomóc, jakie są Twoje zasoby, kogo możesz poprosić o wsparcie w otoczeniu, co warto zrobić do kolejnego spotkania. Nie wychodzisz z pustymi rękami."
+    },
+    {
+      "title": "Dalsza współpraca",
+      "description": "Wspólnie decydujemy, czy potrzebujesz kolejnej wizyty domowej, czy za jakiś czas będziesz już w stanie przyjechać do gabinetu. Szanuję Twoje tempo powrotu do równowagi — nie ma tu żadnych sztywnych reguł."
+    }
+  ],
+  "pricingVariants": [
+    {
+      "name": "Wizyta domowa — Biała Podlaska",
+      "price": "350",
+      "description": "90 minut w Twoim domu na terenie miasta Biała Podlaska"
+    },
+    {
+      "name": "Wizyta domowa — okolice do 30 km",
+      "price": "350",
+      "description": "90 minut w Twoim domu w promieniu do 30 km od Białej Podlaskiej (np. Terespol, Łosice, Międzyrzec, Kodeń)"
+    }
+  ],
+  "relatedServices": ["pomoc-okoloporodowa", "konsultacja-psychologiczna"],
+  "slices": [
+    { "slice_type": "service_hero", "primary": {} },
+    {
+      "slice_type": "service_description",
+      "primary": {
+        "content": "Okołoporodowe wizyty domowe to spotkania dedykowane kobietom, które znalazły się w kryzysowej sytuacji okołoporodowej i z różnych względów nie mogą pojawić się w gabinecie. To forma wsparcia, która powstała z myślą o realnych potrzebach kobiet po porodzie — bo wiem, jak wygląda codzienność z noworodkiem, z niemowlęciem, z dzieckiem, które nie chce rozstać się z mamą ani na chwilę. Czasem nie chodzi nawet o fizyczną niemożność wyjścia — chodzi o to, że emocjonalnie nie jesteś w stanie udźwignąć myśli o podróży, parkingu, obcym miejscu. I to jest zrozumiałe.\n\nPodczas wizyty domowej pracujemy nad zaopiekowaniem się najtrudniejszymi doświadczeniami i emocjami oraz staramy się opracować konkretny plan działania i wsparcia — taki, który wyprowadzi Cię z kryzysu i pokaże, gdzie możesz się oprzeć. W spotkaniu może uczestniczyć Ty sama lub Ty razem ze swoim niemowlęciem czy noworodkiem. Nie musisz organizować opiekunki, nie musisz planować, „co zrobić z dzieckiem” — jesteśmy razem, w Twoim domu, w Twoim rytmie.\n\n**Dla kogo jest ta forma wsparcia?**\n\n- Dla kobiet tuż po porodzie, które doświadczają obniżonego nastroju, lęku, płaczliwości lub poczucia braku więzi z dzieckiem\n- Dla kobiet, u których występują objawy depresji poporodowej i którym trudno samodzielnie dotrzeć na wizytę\n- Dla kobiet z trudną adaptacją do macierzyństwa, wyczerpanych i zagubionych\n- Dla kobiet po stracie okołoporodowej, dla których samo wyjście z domu bywa ogromnym wysiłkiem\n- Dla kobiet z niemowlętami, których rytm dnia (karmienie, drzemki, zapotrzebowanie na bliskość) uniemożliwia regularne wizyty w gabinecie\n- Dla kobiet w izolacji społecznej — na przykład z powodu trudności zdrowotnych ich lub dziecka, braku wsparcia rodziny, oddalenia od siatki bliskich\n\nWizyta trwa 90 minut — dłużej niż standardowa sesja w gabinecie. Dodatkowy czas jest potrzebny, bo praca w warunkach domowych wymaga uwzględnienia Twojego rytmu, potrzeb dziecka i budowania bezpiecznej przestrzeni w miejscu, które jest jednocześnie Twoją codziennością. Cena 350 zł obejmuje całą wizytę łącznie z dojazdem.\n\n**Obszar działania:** Biała Podlaska i okolice do 30 km — obejmuje to m.in. Terespol, Łosice, Międzyrzec Podlaski, Kodeń, Piszczac, Janów Podlaski i inne miejscowości w tej odległości. Jeśli nie jesteś pewna, czy Twoja lokalizacja mieści się w tym obszarze, zadzwoń — wspólnie sprawdzimy i ustalimy szczegóły."
+      }
+    },
+    { "slice_type": "service_process", "primary": {} },
+    { "slice_type": "service_pricing", "primary": {} },
+    { "slice_type": "service_related", "primary": {} },
+    {
+      "slice_type": "cta_section",
+      "primary": {
+        "title": "Potrzebujesz wsparcia w domu?",
+        "description": "Zadzwoń i opowiedz mi krótko, w czym potrzebujesz pomocy. Ustalimy termin, który będzie dobry dla Ciebie i Twojego dziecka. Nie musisz być sama z tym, co przeżywasz.",
+        "primary_button_text": "Zadzwoń: 794 575 753",
+        "primary_button_link": { "url": "tel:+48794575753" },
+        "secondary_button_text": "Napisz maila",
+        "secondary_button_link": { "url": "mailto:wloszczynska.psycholog@gmail.com" }
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Wizyty domowe okołoporodowe — Weronika Włoszczyńska, Biała Podlaska",
+    "metaDescription": "Okołoporodowe wizyty domowe dla kobiet w kryzysie. 90 minut w Twoim domu. 350 zł. Biała Podlaska i okolice do 30 km. Umów: 794 575 753.",
+    "metaImage": "",
+    "ogImage": "",
+    "robots": "",
+    "keywords": "wizyty domowe psycholog, depresja poporodowa biała podlaska, wsparcie w domu po porodzie, psycholog okołoporodowy dojazd",
+    "canonicalUrl": ""
+  }
+}

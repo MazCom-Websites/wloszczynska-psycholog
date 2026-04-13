@@ -1,7 +1,166 @@
 {
-  "title": "Wloszczynska Psycholog",
+  "title": "Strona główna",
   "status": "published",
-  "publishedAt": "2026-04-13T16:49:07.223Z",
+  "publishedAt": "2026-04-13T00:00:00.000Z",
+  "description": "Weronika Włoszczyńska — psycholog i psychoterapeuta w Białej Podlaskiej. Psychoterapia, wsparcie okołoporodowe, konsultacje psychologiczne.",
   "path": "/",
-  "slices": []
+  "slices": [
+    {
+      "slice_type": "split_hero",
+      "primary": {
+        "eyebrow": "Psycholog · Psychoterapeuta",
+        "title": "Weronika Włoszczyńska",
+        "subtitle": "Witaj! Cieszę się, że tu jesteś. Jestem psychologiem i psychoterapeutą. Moja praca opiera się na budowaniu bezpiecznej, przyjaznej i pełnej zaufania atmosfery, w której możesz swobodnie dzielić się swoimi doświadczeniami, lękami i pytaniami — bez oceny i w swoim własnym tempie.",
+        "primary_cta_text": "Oferta i cennik",
+        "primary_cta_link": { "url": "/oferta" },
+        "secondary_cta_text": "Umów konsultację",
+        "secondary_cta_link": { "url": "/kontakt" },
+        "image": {
+          "url": "https://placehold.co/900x1100/fbe8e7/6c2d2c?text=Weronika+Wloszczynska",
+          "alt": "Weronika Włoszczyńska — psycholog i psychoterapeuta w gabinecie w Białej Podlaskiej"
+        }
+      }
+    },
+    {
+      "slice_type": "promo_text_cta",
+      "primary": {
+        "title": "Jak mogę Ci pomóc?",
+        "description": "Jeśli doświadczasz trudności emocjonalnych, potrzebujesz wsparcia psychologicznego albo rozważasz psychoterapię — zrobiłaś już pierwszy krok, czytając te słowa. Kolejny jest prostszy niż się wydaje. Zadzwoń albo napisz do mnie, a wspólnie zastanowimy się, jaka forma wsparcia będzie dla Ciebie najlepsza.",
+        "cta_text": "Zadzwoń: 794 575 753",
+        "cta_link": { "url": "tel:+48794575753" },
+        "background": "light"
+      }
+    },
+    {
+      "slice_type": "services_grid",
+      "primary": {
+        "eyebrow": "Wsparcie w różnych sytuacjach",
+        "title": "W czym mogę Ci pomóc",
+        "description": "Każdy z nas mierzy się z innymi wyzwaniami. Oferuję wsparcie dostosowane do Twojej sytuacji — pomagam znaleźć rozwiązania, które są dobre dla Ciebie, tu i teraz."
+      },
+      "items": [
+        {
+          "icon": "HeartPulse",
+          "title": "Zdrowie psychiczne i emocjonalne",
+          "description": "Pomagam w radzeniu sobie z lękiem, depresją, przewlekłym stresem, trudnościami ze snem, wypaleniem i innymi trudnościami emocjonalnymi. Wspólnie zrozumiemy, skąd się biorą i co możesz zrobić, żeby poczuć się lepiej.",
+          "link": { "url": "/oferta/psychoterapia" }
+        },
+        {
+          "icon": "Baby",
+          "title": "Wsparcie okołoporodowe",
+          "description": "Towarzyszę kobietom w ciąży, po porodzie i w kryzysowych sytuacjach okołoporodowych — trudności z zajściem w ciążę, lęki, strata, tęczowa ciąża, adaptacja do macierzyństwa. Zaopiekuję Twoje emocje w tym ważnym czasie.",
+          "link": { "url": "/oferta/pomoc-okoloporodowa" }
+        },
+        {
+          "icon": "Users",
+          "title": "Relacje i życie rodzinne",
+          "description": "Pracujemy nad poprawą relacji z bliskimi, radzeniem sobie w konfliktach, komunikacją z partnerem lub dziećmi oraz wsparciem w trudnych sytuacjach rodzinnych. Pomagam odbudować więzi i granice, które Ci służą.",
+          "link": { "url": "/oferta/psychoterapia" }
+        },
+        {
+          "icon": "Sprout",
+          "title": "Rozwój osobisty",
+          "description": "Pomagam w budowaniu poczucia własnej wartości, lepszym rozumieniu siebie, pracy nad granicami i rozwijaniu umiejętności radzenia sobie z wyzwaniami życiowymi. Terapia jako inwestycja w siebie, nie tylko reakcja na kryzys.",
+          "link": { "url": "/oferta/psychoterapia" }
+        }
+      ]
+    },
+    {
+      "slice_type": "feature_alternating",
+      "primary": {
+        "title": "Poznaj mnie lepiej",
+        "description": "Zaangażowanie w Twoje potrzeby to fundament mojej pracy",
+        "features": [
+          {
+            "image": {
+              "url": "https://placehold.co/700x500/fbe8e7/6c2d2c?text=Gabinet+Psychologiczny",
+              "alt": "Gabinet psychologiczny Weroniki Włoszczyńskiej"
+            },
+            "badge": "Bezpieczna przestrzeń",
+            "feature_title": "Miejsce, w którym możesz być sobą",
+            "feature_description": "Gabinet to przestrzeń, w której nie musisz niczego udawać. Możesz przyjść z tym, co Cię boli, niepokoi albo zaskakuje w Tobie samej. Stworzyłam miejsce, w którym panuje cisza, skupienie i szacunek dla Twojego tempa. Od pierwszego spotkania zadbam o to, żebyś poczuła się bezpiecznie, wysłuchana i traktowana bez oceny. To właśnie ta atmosfera sprawia, że prawdziwa zmiana staje się możliwa."
+          },
+          {
+            "image": {
+              "url": "https://placehold.co/700x500/f4f8f4/25382b?text=Doswiadczenie",
+              "alt": "Doświadczenie zawodowe"
+            },
+            "badge": "Wykształcenie i doświadczenie",
+            "feature_title": "Solidne przygotowanie zawodowe",
+            "feature_description": "Jestem absolwentką pięcioletnich studiów magisterskich z psychologii na Katolickim Uniwersytecie Lubelskim Jana Pawła II. Ukończyłam całościowe szkolenie z zakresu psychoterapii w Katedrze Psychiatrii przy Collegium Medicum Uniwersytetu Jagiellońskiego oraz kurs I stopnia Terapii Skoncentrowanej na Rozwiązaniach. Jestem członkinią Polskiego Towarzystwa Psychiatrycznego. Moją pracę stale poddaję superwizji."
+          },
+          {
+            "image": {
+              "url": "https://placehold.co/700x500/fdf8f0/6e361a?text=Pomoc+Okoloporodowa",
+              "alt": "Specjalizacja okołoporodowa"
+            },
+            "badge": "Specjalizacja",
+            "feature_title": "Wsparcie w kryzysach okołoporodowych",
+            "feature_description": "Szczególne miejsce w mojej pracy zajmuje wsparcie psychologiczne w obszarze okołoporodowym. Ukończyłam półroczne szkolenie dla psychologów i psychoterapeutów „Czułe wsparcie w kryzysach okołoporodowych”. Obecnie kontynuuję edukację w Szkole Psychologicznej Pomocy Okołoporodowej w Laboratorium Psychoedukacji w Warszawie. Rozumiem, jak delikatny i jednocześnie wymagający jest to czas w życiu kobiety."
+          }
+        ]
+      }
+    },
+    {
+      "slice_type": "testimonials_carousel",
+      "primary": {
+        "title": "Co mówią moi klienci",
+        "subtitle": "Zobacz, jak moje wsparcie pomogło innym w ich drodze do lepszego samopoczucia i rozwoju"
+      },
+      "items": [
+        {
+          "quote": "Pani Weronika pomogła mi w bardzo trudnym momencie życia. Jej wsparcie i profesjonalizm sprawiły, że poczułam się bezpiecznie i zrozumiana. Po raz pierwszy od dawna mogłam mówić swobodnie, bez strachu, że zostanę oceniona. Dzięki tym spotkaniom odzyskałam spokój i poczułam, że mam w sobie siłę, żeby iść dalej.",
+          "author": "Katarzyna",
+          "role": "Klientka terapii indywidualnej",
+          "rating": 5
+        },
+        {
+          "quote": "Bardzo polecam! Terapia pomogła mi lepiej radzić sobie z emocjami i znaleźć rozwiązania, których wcześniej w ogóle nie widziałem. Pani Weronika prowadzi rozmowę tak, że sam dochodzisz do odpowiedzi — to jest naprawdę niezwykłe uczucie. Czuję, że zmieniło się moje podejście do siebie i do ludzi wokół mnie.",
+          "author": "Michał",
+          "role": "Klient terapii długoterminowej",
+          "rating": 5
+        },
+        {
+          "quote": "Dzięki terapii u Pani Weroniki nauczyłam się dbać o swoje granice i lepiej rozumieć swoje potrzeby. Trafiłam do niej w czasie kryzysu okołoporodowego i wyszłam z niego dużo silniejsza, niż mi się wydawało. Ogromna wdzięczność za cierpliwość, ciepło i zawsze trafne pytania we właściwym momencie.",
+          "author": "Anna",
+          "role": "Wsparcie okołoporodowe",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "slice_type": "appointment_scheduler",
+      "primary": {
+        "eyebrow": "Pozwól, że się przedstawię",
+        "title": "Umów się na konsultację",
+        "description": "Zarezerwuj spotkanie i rozpocznij swoją drogę do lepszego samopoczucia. Wybierz dogodny termin i skontaktuj się ze mną, żebyśmy mogły wspólnie rozpocząć pracę. Pierwsza rozmowa telefoniczna lub mailowa jest niezobowiązująca — służy temu, żebyśmy obie mogły poczuć, czy chcemy razem pracować.",
+        "phone": "+48 794 575 753",
+        "phone_label": "Zadzwoń teraz",
+        "email": "wloszczynska.psycholog@gmail.com",
+        "email_label": "Napisz do mnie",
+        "address": "ul. Jana III Sobieskiego 8, 21-500 Biała Podlaska",
+        "cta_text": "Wypełnij formularz",
+        "cta_link": { "url": "/kontakt" }
+      }
+    },
+    {
+      "slice_type": "glow_cta",
+      "primary": {
+        "title": "Zrobisz pierwszy krok?",
+        "description": "Zadzwoń pod 794 575 753 albo napisz na wloszczynska.psycholog@gmail.com. Opowiedz krótko, z czym się mierzysz — wspólnie zastanowimy się, jaka forma wsparcia będzie dla Ciebie najlepsza. Nie musisz mieć od razu gotowych pytań ani wiedzieć, „jak to się robi”. Wystarczy, że chcesz spróbować.",
+        "cta_text": "Zadzwoń: 794 575 753",
+        "cta_link": { "url": "tel:+48794575753" },
+        "glow_color": "#cd5f56"
+      }
+    }
+  ],
+  "metadata": {
+    "metaTitle": "Weronika Włoszczyńska — Psycholog, Psychoterapeuta w Białej Podlaskiej",
+    "metaDescription": "Psycholog i psychoterapeuta w Białej Podlaskiej. Psychoterapia indywidualna, wsparcie okołoporodowe, konsultacje psychologiczne. Bezpieczna przestrzeń dla Twoich emocji. Umów konsultację: 794 575 753.",
+    "metaImage": "",
+    "ogImage": "",
+    "robots": "",
+    "keywords": "psycholog biała podlaska, psychoterapeuta, wsparcie okołoporodowe, terapia indywidualna, konsultacje psychologiczne, weronika włoszczyńska",
+    "canonicalUrl": ""
+  }
 }
