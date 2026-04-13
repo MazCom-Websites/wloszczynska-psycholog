@@ -1,0 +1,14 @@
+{
+  "title": "Theme",
+  "status": "published",
+  "preset": "cyberdeck",
+  "typography": {
+    "headingFont": "JetBrains Mono",
+    "bodyFont": "JetBrains Mono"
+  },
+  "spacing": {
+    "sectionPadding": "80px",
+    "containerMaxWidth": "1152px",
+    "cardGap": "24px"
+  }
+}
