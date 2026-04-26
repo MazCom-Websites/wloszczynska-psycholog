@@ -41,10 +41,10 @@ jobs:
       - name: Install dependencies
         run: cd builder && npm ci
 
-      - name: Link content
+      - name: Copy content
         run: |
           rm -rf builder/content
-          ln -sf ${{ github.workspace }} builder/content
+          cp -r ${{ github.workspace }}/content builder/content
 
       - name: Decrypt content
         run: cd builder && node scripts/decrypt-content.mjs content
@@ -54,7 +54,7 @@ jobs:
       - name: Build static site
         run: cd builder && npm run build:pages
         env:
-          NEXT_PUBLIC_SITE_URL: https://${{ vars.SITE_DOMAIN }}
+          NEXT_PUBLIC_SITE_URL: https://${{ vars.SITE_DOMAIN }}${{ vars.PAGES_BASE_PATH }}
           NEXT_PUBLIC_FORM_API_URL: ${{ vars.FORM_API_URL }}
           NEXT_PUBLIC_GA_ID: ${{ vars.GA_ID }}
           NEXT_PUBLIC_HOTJAR_ID: ${{ vars.HOTJAR_ID }}
@@ -62,6 +62,12 @@ jobs:
           NEXT_PUBLIC_POSTHOG_KEY: ${{ vars.POSTHOG_KEY }}
           NEXT_PUBLIC_POSTHOG_HOST: ${{ vars.POSTHOG_HOST }}
           CONTENT_ENCRYPTION_KEY: ${{ secrets.CONTENT_ENCRYPTION_KEY }}
+          AUTH0_DOMAIN: dummy.auth0.com
+          AUTH0_CLIENT_ID: dummy-client-id
+          AUTH0_CLIENT_SECRET: dummy-client-secret-min-32-chars-long
+          AUTH0_SECRET: 0000000000000000000000000000000000000000000000000000000000000000
+          APP_BASE_URL: https://${{ vars.SITE_DOMAIN }}${{ vars.PAGES_BASE_PATH }}
+          PAGES_BASE_PATH: ${{ vars.PAGES_BASE_PATH }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
